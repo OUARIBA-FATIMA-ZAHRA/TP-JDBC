@@ -17,7 +17,7 @@ Lab 1 : Suivi des Scripts des Développeurs
    La base de données atelier a été créée avec succès dans MySQL.
 
    1.2Résultats d’exécution
-   <img width="1916" height="1079" alt="Capture d&#39;écran 2026-02-11 004507" src="https://github.com/user-attachments/assets/d8bedb02-10e4-4b16-85d2-eb249e564691" />
+<img width="1916" height="1073" alt="Capture d&#39;écran 2026-02-11 210942" src="https://github.com/user-attachments/assets/c9bbbf9a-f4c7-4cb4-8a64-bf881e992588" />
    La console affiche :
 
     Le nombre maximum de scripts par jour
@@ -46,28 +46,11 @@ Lab 2 : Gestion des Machines et Employés (JDBC en Couches)
 
     machine
    2.2 TestEmploye.java – Fonctionnement du programme
-   <img width="1919" height="1079" alt="Capture d&#39;écran 2026-02-11 125351" src="https://github.com/user-attachments/assets/a5fb9198-2ba3-46b1-a3b8-d91a49a86aad" />
+<img width="1919" height="1079" alt="Capture d&#39;écran 2026-02-11 211037" src="https://github.com/user-attachments/assets/4fbe2bfd-c600-4b2f-b058-a424f12d829c" />
    
-création 
-
-    Un employé "Maroanin" est créé avec l’ID 1.
-
-Lecture 
-
-    Le programme affiche la liste des employés présents dans la base de données.
-
-Mise à jour 
-
-    Le poste est modifié en "Superviseur".
-    Résultat : true .
-
-Suppression 
-
-    L’employé est supprimé avec succès.
-    Résultat : true.
 
    2.3 TestMachine.java – Relation Machine / Employé
-   <img width="1917" height="1078" alt="Capture d&#39;écran 2026-02-11 125403" src="https://github.com/user-attachments/assets/07d793b2-36de-4530-a2d2-326685de915c" />
+<img width="1919" height="1079" alt="Capture d&#39;écran 2026-02-11 211108" src="https://github.com/user-attachments/assets/07cef7dd-cbad-4483-927a-3bc05a358de7" />
 Cela prouve que :
 
     La machine est bien enregistrée
